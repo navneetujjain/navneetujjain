@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Navneet Ujjain</h1>
+<h1 align="left">Hi 👋, I'm Navneet Ujjain</h1>
 <h3 align="center">I'm a passionate final year undergraduate student with a strong affinity for both computer science and finance.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navneetujjain&label=Profile%20views&color=0e75b6&style=flat" alt="navneetujjain" /> </p>
