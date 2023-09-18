@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Navneet Ujjain</h1>
-<h3 align="center">I'm a passionate final year undergraduate student with a strong affinity for both computer science and finance.</h3>
+<h3 align="left">I'm a passionate final year undergraduate student with a strong affinity for both computer science and finance.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/navneetujjain/](https://github.com/navneetujjain/)
 
