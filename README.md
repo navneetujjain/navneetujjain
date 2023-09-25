@@ -10,6 +10,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navneetujjain&label=Profile%20views&color=0e75b6&style=flat" alt="navneetujjain" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navneetujjain&theme=onedark" alt="navneetujjain" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navneetujjain&show_icons=true&locale=en" alt="navneetujjain" /></p>
+<p align="right"> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetujjain" alt="navneetujjain" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/navneet_ujjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navneet_ujjain" height="30" width="40" /></a>
@@ -18,4 +20,3 @@
 <a href="https://www.leetcode.com/navneetujjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="navneetujjain" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/navneet_ujjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="navneet_ujjain" height="30" width="40" /></a>
 </p>
-<p align="left"> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetujjain" alt="navneetujjain" /></a> </p>
