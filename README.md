@@ -20,6 +20,6 @@
 </p>
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navneetujjain&count_private=true&show_icons=true&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&line_height=30&include_all_commits=true">
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetujjain&hide=procfile,matlab,php&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&langs_count=8">  
+<img src="https://github-readme-stats.vercel.app/api?username=navneetujjain&count_private=true&show_icons=true&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&line_height=30&include_all_commits=true">
+<img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetujjain&hide=procfile,matlab,php&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&langs_count=8">  
 </p>
