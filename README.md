@@ -10,7 +10,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navneetujjain&label=Profile%20views&color=0e75b6&style=flat" alt="navneetujjain" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navneetujjain&theme=onedark" alt="navneetujjain" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navneetujjain&show_icons=true&locale=en" alt="navneetujjain" /></p>
-<p align="right"> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetujjain" alt="navneetujjain" /></a> </p>
+
+<h3 align="left">Most Used Langs</h3>
+<p align="left"> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetujjain" alt="navneetujjain" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,4 +21,14 @@
 <a href="https://www.hackerrank.com/navneetujjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="navneetujjain" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/navneetujjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="navneetujjain" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/navneet_ujjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="navneet_ujjain" height="30" width="40" /></a>
+</p>
+
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=navneetujjain&count_private=true&show_icons=true&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&line_height=30&include_all_commits=true">
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetujjain&hide=procfile,matlab,php&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&langs_count=8">
+
+  <br>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=saumyasingh203&color=fc5a8d" />
+  
+  
 </p>
