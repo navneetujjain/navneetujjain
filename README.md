@@ -18,4 +18,4 @@
 <a href="https://www.leetcode.com/navneetujjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="navneetujjain" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/navneet_ujjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="navneet_ujjain" height="30" width="40" /></a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navneetujjain)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetujjain" alt="navneetujjain" /></a> </p>
