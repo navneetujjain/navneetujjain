@@ -29,6 +29,12 @@
 </p>
 
 ### GitHub Stats and Top Languages:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navneetujjain&count_private=true&show_icons=true&title_color=green&icon_color=green&show_owner=true&line_height=30&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navneetujjain&hide=procfile,matlab,php&title_color=green&icon_color=green&show_owner=true&langs_count=8)
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1;">
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navneetujjain&count_private=true&show_icons=true&title_color=green&icon_color=green&show_owner=true&line_height=30&include_all_commits=true)
+  </div>
+  <div style="flex: 1;">
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navneetujjain&hide=procfile,matlab,php&title_color=green&icon_color=green&show_owner=true&langs_count=8)
+  </div>
+</div>
