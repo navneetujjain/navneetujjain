@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navneet Ujjain</h1>
 <h3 align="center">I am a Full Stack Developer with a passion for solving complex problems and building efficient, scalable solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navneetujjain&label=Viewers&color=19b40e&style=plastic" alt="navneetujjain" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=navneetujjain&label=Viewers&color=19b40e&style=plastic" alt="navneetujjain" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navneetujjain" alt="navneetujjain" /></a> </p>
 
