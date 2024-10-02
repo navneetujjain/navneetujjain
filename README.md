@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navneet Ujjain</h1>
-<h3 align="center">I am a Full Stack Developer with a passion for solving complex problems and building efficient solutions.</h3>
+<h3 align="center">I am a novice Full Stack Developer with a passion for solving complex problems and building efficient solutions.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=navneetujjain&label=Viewers&color=19b40e&style=plastic" alt="navneetujjain" /> </p>
 
