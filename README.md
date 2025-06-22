@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/navneetujjain/](https://github.com/navneetujjain/)
 
-- 📫 You can reach me at **navneetujjain27@gmail.com**
+- 📫 You can reach me at **navujjain@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
